@@ -1,2 +1,2 @@
 # EBDropdownListView
-DropdownList control 1
+iOS DropdownList control 
