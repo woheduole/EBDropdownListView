@@ -33,7 +33,6 @@
     // 弹出框向上
     EBDropdownListView *dropdownListView = [[EBDropdownListView alloc] initWithDataSource:@[item1, item2, item3, item4]];
     dropdownListView.frame = CGRectMake(20, 100, 130, 30);
-    //dropdownListView.dataSource = @[item1, item2, item3, item4];
     dropdownListView.selectedIndex = 2;
     [dropdownListView setViewBorder:0.5 borderColor:[UIColor grayColor] cornerRadius:2];
     [self.view addSubview:dropdownListView];
