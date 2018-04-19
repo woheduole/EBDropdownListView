@@ -12,7 +12,6 @@ iOS封装的下拉列表控件，调用简单，在tableview上使用也不会�
     // 弹出框向上
     EBDropdownListView *dropdownListView = [[EBDropdownListView alloc] initWithDataSource:@[item1, item2, item3, item4]];
     dropdownListView.frame = CGRectMake(20, 100, 130, 30);
-    dropdownListView.selectedIndex = 2;
     [dropdownListView setViewBorder:0.5 borderColor:[UIColor grayColor] cornerRadius:2];
     [self.view addSubview:dropdownListView];
     
