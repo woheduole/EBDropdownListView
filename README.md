@@ -28,7 +28,7 @@ iOS封装的下拉列表控件，调用简单，在tableview上使用也不会�
 ```
 
 
-![](https://thumbnail0.baidupcs.com/thumbnail/bc4cf383471489b094a71e7af1478d2e?fid=524296408-250528-740366640413438&time=1524142800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-o2EMR3EJoyP8UnxB0exxJVWIA0M%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=2525964582990862598&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![](https://upload-images.jianshu.io/upload_images/2107229-a8418a85fe3afa47.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/360)
 
 
 [博客地址:https://www.jianshu.com/p/00186b02cb04](https://www.jianshu.com/p/00186b02cb04)
